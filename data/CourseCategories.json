@@ -1,0 +1,26 @@
+[
+  {
+    "category_id": "01",
+    "category_name": "Software Development"
+  },
+  {
+    "category_id": "02",
+    "category_name": "Web Development"
+  },
+  {
+    "category_id": "03",
+    "category_name": "Mobile Development"
+  },
+  {
+    "category_id": "04",
+    "category_name": "Data Science"
+  },
+  {
+    "category_id": "05",
+    "category_name": "Machine Learning"
+  },
+  {
+    "category_id": "06",
+    "category_name": "Artificial Intelligence"
+  }
+]
