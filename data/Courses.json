@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "name": "Software Engineering",
+    "price": "199",
+    "description": "Software Engineering is a branch of computer science that deals with the design, development, and maintenance of software systems. It is a systematic approach to software design, involving the application of engineering practices to software. Software engineering deals with the application of engineering principles to the development of software. It is a branch of computer science that deals with the design, development, and maintenance of software systems. It is a systematic approach to software design, involving the application of engineering practices to software. Software engineering deals with the application of engineering principles to the development of software.",
+    "image": "https://tryengineering.org/wp-content/uploads/bigstock-Software-Developer-Freelancer-321565021-scaled.jpg",
+    "rating": "4.5"
+  },
+  {
+    "id": "02",
+    "name": "Web Development",
+    "price": "99",
+    "description": "Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (web apps), electronic businesses, and social network services. A more comprehensive list of tasks to which Web development commonly refers, may include Web engineering, Web design, Web content development, client liaison, client-side/server-side scripting, Web server and network security configuration, and e-commerce development. Among Web professionals, \"Web development\" usually refers to the main non-design aspects of building Web sites: writing markup and coding.",
+    "image": "https://www.clariontech.com/hubfs/Web%20Developer%20Vs%20Web%20Designer.png",
+    "rating": "4.5"
+  },
+  {
+    "id": "03",
+    "name": "Mobile Development",
+    "price": "79",
+    "description": "Mobile development is the process by which application software is developed for low-power handheld devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an \"application-like\" experience within a Web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile development is the process by which application software is developed for low-power handheld devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an \"application-like\" experience within a Web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms.",
+    "image": "https://www.sam-solutions.com/blog/wp-content/uploads/2018/04/Cross-Platform-Mobile-Development_-Five-Best-Frameworks_2-scaled.jpg",
+    "rating": "4.5"
+  },
+  {
+    "id": "04",
+    "name": "Data Science",
+    "price": "89",
+    "description": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data. Data science is a \"concept to unify statistics, data analysis, machine learning and their related methods\" in order to \"understand and analyze actual phenomena\" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science, in particular from the subdomains of machine learning, classification, cluster analysis, data mining, databases, and visualization.",
+    "image": "https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&width=1200",
+    "rating": "4.8"
+  },
+  {
+    "id": "05",
+    "name": "Machine Learning",
+    "price": "149",
+    "description": "Machine learning is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as \"training data\", in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in a wide variety of applications, such as email filtering and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.",
+    "image": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?fit=2113%2C1218&strip=all",
+    "rating": "5.0"
+  },
+  {
+    "id": "06",
+    "name": "Artificial Intelligence",
+    "price": "299",
+    "description": "Artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. In computer science AI research is defined as the study of \"intelligent agents\": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. Colloquially, the term \"artificial intelligence\" is applied when a machine mimics \"cognitive\" functions that humans associate with other human minds, such as \"learning\" and \"problem solving\".",
+    "image": "https://www.saveetha.ac.in/images/sec/2021/AIDS/add.jpg",
+    "rating": "4.4"
+  }
+]
