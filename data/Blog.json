@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "question": "What is cors?",
+        "imageURL": "https://i.ytimg.com/vi/h-WtIT6gCBk/maxresdefault.jpg",
+        "answers": "CORS is the mechanism that provides the ability to alter the behavior of this policy, enabling you to do things like hosting static content at www.example.com and the backend API at api.example.com. This kind of request would be called a Cross-Origin request, as a resource from one subdomain is requesting a resource from another subdomain. This is all controlled through preflight requests that exchange a set of HTTP request headers and corresponding response headers collectively referred to as CORS Headers, each of these headers modifies a different element of the Same-Origin policy to loosen the limitations it imposes."
+    },
+    {
+        "id" : "2",
+        "question": "Why are you using firebase? What other options do you have to implement authentication?",
+        "imageURL": "https://www.manektech.com/upload/admin/blogs/database-2.png",
+        "answers": "Firebase is Google’s Backend-as-a-Service (BAAS) solution for mobile app development.  Authentication keeps invalid users out of databases, networks, and other resources. These types of authentication use factors, a category of credential for verification, to confirm user identity. Here are just a few of those methods. Single-Factor/Primary Authentication Historically the most common form of authentication, Single-Factor Authentication, is also the least secure, as it only requires one factor to gain full system access. Two-Factor Authentication (2FA) By adding a second factor for verification, two-factor authentication reinforces security efforts.  Multi-Factor Authentication (MFA) Multi-factor authentication is a high-assurance method, as it uses more system-irrelevant factors to legitimize users. However, the difference is that while 2FA always utilizes only two factors, MFA could use two or three, with the ability to vary between sessions, adding an elusive element for invalid users."
+    },
+    {
+        "id" : "3",
+        "question": "How does the private route work?",
+        "imageURL": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hby2RPeh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zw6ade965aztnwz1kur3.png",
+        "answers" : "The PrivateRoute component is a wrapper for the Route component. It checks if the user is authenticated and if not, redirects to the login page. If the user is authenticated, it renders the component passed to it as a prop. The PrivateRoute component is used in the App component to wrap the routes that require authentication. The PrivateRoute component is a wrapper for the Route component. It checks if the user is authenticated and if not, redirects to the login page. If the user is authenticated, it renders the component passed to it as a prop. The PrivateRoute component is used in the App component to wrap the routes that require authentication.Private Routes vary based on the Apps, For example, Dashboard, User Profile, App Settings."
+
+    },
+    {
+        "id": "4",
+        "question": "What is Node? How does Node work?",
+        "imageURL": "https://i.ytimg.com/vi/j5xTu4lQQP8/maxresdefault.jpg",
+        "answers":"A node is a point of intersection/connection within a data communication network. In an environment where all devices are accessible through the network, these devices are all considered nodes. The individual definition of each node depends on the type of network it refers to. Working of Node.js: Node.js accepts the request from the clients and sends the response, while working with the request node.js handles them with a single thread. To operate I/O operations or requests node.js use the concept of threads. Thread is a sequence of instructions that the server needs to perform. It runs parallel on the server to provide the information to multiple clients. Node.js is an event loop single-threaded language. It can handle concurrent requests with a single thread without blocking it for one request. Node.js basically works on two concept Asynchronous Non-blocking I/O"
+    }
+]

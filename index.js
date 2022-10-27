@@ -6,6 +6,7 @@ const port =process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require('./data/Courses.json');
+const blog = require('./data/Blog.json');
 
 app.get('/',(req,res)=>{
     res.send('CODER BOT API RUNNING...');
@@ -19,6 +20,10 @@ app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((c) => c.id === id);
   res.send(selectedCourse);
+});
+
+app.get('/blog',(req,res)=>{
+    res.json(blog);
 });
 
 app.listen(port,()=>{
