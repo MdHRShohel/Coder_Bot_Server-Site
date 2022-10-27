@@ -29,3 +29,5 @@ app.get('/blog',(req,res)=>{
 app.listen(port,()=>{
     console.log(` Coder BOT Server running on port ${port}`);
 });
+
+module.exports = app;
